@@ -103,15 +103,6 @@ I'm **KARTHIKEYA UTUKURU**, a motivated student and fresher exploring the world 
   <a href="https://in.linkedin.com/in/karthikeya-utukuru-20a78434b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Karthikeya%20Utukuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@Karthikeya-06" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Karthikeya--06-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@Karthikeya-06" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Karthikeya--06-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/karthikeya_06/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-karthikeya__06-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 
 </div>
 
