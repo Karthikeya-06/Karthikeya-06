@@ -59,12 +59,7 @@ I'm **KARTHIKEYA UTUKURU**, a motivated student and fresher exploring the world 
 ## Social Media
 
 <p>
-  <a href="https://www.youtube.com/@Karthikeya-06" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube subscribers" />
-  </a>
-  <a href="https://medium.com/@Karthikeya-06" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  
   <a href="https://www.instagram.com/karthikeya_06/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram followers" />
   </a>
